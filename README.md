@@ -1,0 +1,2 @@
+# Atypical-pyton
+python codes 
